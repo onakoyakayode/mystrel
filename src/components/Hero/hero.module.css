@@ -1,0 +1,5 @@
+.hero {
+  background-image: url("../../../public/assets/images/heroBg.png");
+  background-position: 100%;
+  background-size: cover;
+}
